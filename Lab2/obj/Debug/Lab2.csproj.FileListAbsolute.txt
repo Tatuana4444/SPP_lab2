@@ -1,0 +1,7 @@
+C:\3курс\3курс1сем\СПП\Лабы\Лаба2\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\3курс\3курс1сем\СПП\Лабы\Лаба2\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\3курс\3курс1сем\СПП\Лабы\Лаба2\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\3курс\3курс1сем\СПП\Лабы\Лаба2\Lab2\Lab2\obj\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\3курс\3курс1сем\СПП\Лабы\Лаба2\Lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\3курс\3курс1сем\СПП\Лабы\Лаба2\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\3курс\3курс1сем\СПП\Лабы\Лаба2\Lab2\Lab2\obj\Debug\Lab2.pdb
